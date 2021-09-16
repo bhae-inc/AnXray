@@ -22,8 +22,8 @@ android {
             enableSplit = false
         }
     }
-    buildFeatures {
-        viewBinding = true
+     viewBinding{
+        true
     }
 }
 
